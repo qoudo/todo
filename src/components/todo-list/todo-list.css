@@ -1,0 +1,17 @@
+.todo-list-container {
+  margin-top: 20px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  padding: 15px;
+}
+
+.todo-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.empty-list {
+  text-align: center;
+  color: #888;
+  font-style: italic;
+}
